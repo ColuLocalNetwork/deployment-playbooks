@@ -9,7 +9,7 @@ netstat_version: "cb431d6"
 
 NETSTATS_SERVER: "http://localhost:3000"
 NETSTATS_SECRET: ""
-MAIN_REPO_FETCH: "poanetwork"
+MAIN_REPO_FETCH: "ColuLocalNetwork"
 
 NODE_FULLNAME: "netstat"
 NODE_ADMIN_EMAIL: ""

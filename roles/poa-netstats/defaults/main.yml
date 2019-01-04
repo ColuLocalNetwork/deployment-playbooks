@@ -1,6 +1,6 @@
 ---
 
-MAIN_REPO_FETCH: "poanetwork"
+MAIN_REPO_FETCH: "ColuLocalNetwork"
 GENESIS_NETWORK_NAME: "PoA"
 
 api_version: "9773b5b" 

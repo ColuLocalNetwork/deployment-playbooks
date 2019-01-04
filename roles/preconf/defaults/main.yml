@@ -6,7 +6,7 @@ users:
 home: "/home/{{ username }}"
 
 GENESIS_NETWORK_NAME: "PoA"
-MAIN_REPO_FETCH: "poanetwork"
+MAIN_REPO_FETCH: "ColuLocalNetwork"
 GENESIS_BRANCH: "master"
 
 spec_json: ""
