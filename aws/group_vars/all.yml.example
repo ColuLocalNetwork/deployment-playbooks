@@ -52,7 +52,7 @@ region: "us-east-1"
 vpc_id: "vpc-ID-number"
 vpc_subnet_id: "subnet-ID-number"
 
-MAIN_REPO_FETCH: "poanetwork"
+MAIN_REPO_FETCH: "ColuLocalNetwork"
 GENESIS_BRANCH: "master"
 
 ###Bootnode

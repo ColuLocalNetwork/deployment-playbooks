@@ -16,10 +16,10 @@ BLK_GAS_LIMIT: "6700000"
 GENESIS_BRANCH: "master"
 
 #NetworkName as specified in genesis file
-GENESIS_NETWORK_NAME: "PoANetwork"
+GENESIS_NETWORK_NAME: "FuseNetwork"
 
 #github account from which all repositories will be downloaded
-MAIN_REPO_FETCH: "poanetwork"
+MAIN_REPO_FETCH: "ColuLocalNetwork"
 
 #Hex-encoded address, including 0x prefix. For moc role it is used as mining key, for other nodes is used in other scripts.
 MOC_ADDRESS: "INSERT HERE"
