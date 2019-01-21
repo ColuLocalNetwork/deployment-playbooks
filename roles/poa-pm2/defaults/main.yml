@@ -5,4 +5,4 @@ users:
   - name: "{{ username }}"
 home: "/home/{{ username }}"
 
-GENESIS_NETWORK_NAME: "PoA"
+GENESIS_NETWORK_NAME: "FuseNetwork"

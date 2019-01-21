@@ -1,7 +1,7 @@
 ---
 
 MAIN_REPO_FETCH: "ColuLocalNetwork"
-GENESIS_NETWORK_NAME: "PoA"
+GENESIS_NETWORK_NAME: "FuseNetwork"
 
 api_version: "9773b5b" 
 
