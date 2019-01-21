@@ -7,7 +7,7 @@ NODE_PWD: "node.pwd" # don't change this one
 SCRIPTS_MOC_BRANCH: "mainnet"
 SCRIPTS_VALIDATOR_BRANCH: "mainnet"
 MAIN_REPO_FETCH: "ColuLocalNetwork"
-GENESIS_BRANCH: "master"
+GENESIS_BRANCH: "FuseNetwork"
 GENESIS_NETWORK_NAME: "FuseNetwork"
 
 MOC_ADDRESS: "0x6f4ed9f807b96ca83696107f56c0091c5c378d41"

@@ -7,7 +7,7 @@ home: "/home/{{ username }}"
 
 GENESIS_NETWORK_NAME: "PoA"
 MAIN_REPO_FETCH: "ColuLocalNetwork"
-GENESIS_BRANCH: "master"
+GENESIS_BRANCH: "FuseNetwork"
 
 spec_json: ""
 bootnodes_txt: ""
